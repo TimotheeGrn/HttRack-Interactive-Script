@@ -14,6 +14,8 @@ try:
                                             """, "green"))
         print(colored("                             by Timothée Guérin", "red"))
         url = input(colored("\n\n[YU-PHI] - Please enter a url: ", "yellow"))
+        if not os.path.exists("websites"):
+            os.makedirs("websites")
         os.system('clear')
         print(colored(f"[YU-PHI] - Target = {url}\n", "blue"))
         domain = urlparse(url).netloc
