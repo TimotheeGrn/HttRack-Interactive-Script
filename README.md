@@ -7,7 +7,7 @@ YU-PHI est un outil de clonage de sites web écrit en Python. Il utilise HTTrack
 ## Installation
 
 1. Assurez-vous d'avoir Python installé sur votre système.
-2. Installez les dépendances en exécutant `pip install termcolor`.
+2. Installez les dépendances en exécutant `pip install -r requirements.txt`.
 
 ## Utilisation
 
