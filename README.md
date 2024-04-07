@@ -2,7 +2,7 @@
 
 YU-PHI est un outil de clonage de sites web écrit en Python. Il utilise HTTrack pour cloner un site web donné et lance ensuite un serveur PHP local pour héberger le site cloné. Cet outil peut être utilisé à des fins éducatives ou pour tester la sécurité des sites web.
 
-![Image1](https://imgur.com/ssJMvmB.png)
+![Image1](blob:https://imgur.com/ac23db4a-c377-4b55-828c-81e6cddef650
 
 ## Installation
 
