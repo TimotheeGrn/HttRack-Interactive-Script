@@ -12,7 +12,7 @@ try:
     | |  | |__| |      | |    | |  | |_| |_ 
     |_|   \____/       |_|    |_|  |_|_____|
                                             """, "green"))
-        print(colored("                             by Timothée Grn", "red"))
+        print(colored("                             by Yueag", "red"))
         url = input(colored("\n\n[YU-PHI] - Please enter a url: ", "yellow"))
         if not os.path.exists("websites"):
             os.makedirs("websites")
