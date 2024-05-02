@@ -8,7 +8,9 @@ YU-PHI est un outil de clonage de sites web écrit en Python. Il utilise HTTrack
 ## Installation
 
 1. Assurez-vous d'avoir Python installé sur votre système.
-2. Installez les dépendances en exécutant `pip install -r requirements.txt`.
+2. Assurez-vous d'avoir httrack installé sur votre système.
+3. Assurez-vous d'avoir php installé sur votre système.
+4. Installez les dépendances en exécutant `pip install -r requirements.txt`.
 
 ## Utilisation
 
