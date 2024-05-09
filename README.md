@@ -1,4 +1,4 @@
-# YU-PHI (Yueag Phishing Tool)
+# YU-PHI
 
 YU-PHI est un outil de clonage de sites web écrit en Python. Il utilise HTTrack pour cloner un site web donné et lance ensuite un serveur PHP local pour héberger le site cloné. Cet outil peut être utilisé à des fins éducatives ou pour tester la sécurité des sites web.
 
