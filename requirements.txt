@@ -1,2 +1,2 @@
-urllib
+urllib3
 termcolor
